@@ -1,0 +1,7 @@
+<litepal>
+        <dbname value="kuai_niao" />
+        <version value="1" />
+        <list>
+            <mapping class="com.coolweather.android.db.Goods" />
+                  </list>>
+    </litepal>
